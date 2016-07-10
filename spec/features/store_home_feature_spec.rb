@@ -1,4 +1,3 @@
-describe 'Feature Test: Store', :type => :feature do
     describe "Category List" do
       it "displays all of the categories as links" do
         visit store_path
